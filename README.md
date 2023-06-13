@@ -39,3 +39,9 @@ Este proyecto se distribuye bajo la licencia MIT. Para más información, consul
 
 Contacto
 Si tienes alguna pregunta o comentario sobre este proyecto, puedes contactarme a través de mi dirección de correo electrónico correo@eejemplo.com.
+
+Link a la GitHub page
+https://francosan10.github.io/BAM-tp-final/
+
+Link al repositorio
+https://github.com/francosan10/BAM-tp-final
