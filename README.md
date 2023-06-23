@@ -1,9 +1,9 @@
-# BAM-tp-final
-
 # Mi Sitio Web Personal
+
  Este es mi sitio web personal, donde comparto información sobre mí, mis proyectos y cómo contactarme. El sitio web está construido utilizando HTML, CSS y JavaScript.
 
 # Características
+
  Página de inicio con una sección de presentación y enlaces a otras secciones del sitio.
  
  Sección "Sobre mí" con información sobre quién soy y mis habilidades.
@@ -17,6 +17,7 @@
  Pie de página con información de contacto y enlaces a mis perfiles de redes sociales.
 
 # Tecnologías utilizadas
+
  HTML
  
  CSS
@@ -24,6 +25,7 @@
  JavaScript
 
 # Instrucciones de uso
+
  Clona este repositorio en tu máquina local.
  
  Abre el archivo index.html en tu navegador web.
